@@ -56,3 +56,7 @@ TODOs.org
 GPATH
 GRTAGS
 GTAGS
+
+*.egg-info
+dist/
+build/
