@@ -1,0 +1,6 @@
+__title__ = 'script_utils'
+__description__ = 'Utilities for python scripting'
+__author__ = 'David Udelson'
+__author_email__ = 'david@davidudelson.com'
+__url__ = 'https://github.com/dudelson/python-script-utils'
+__version__ = '0.1.0'
